@@ -2,7 +2,7 @@
 
 <br>
 
-- use _your apikey_ - which you can get it from `ipgeolocation.io` for free 
+- use _your apikey_ - which you can get it from [`ipgeolocation.io`](ipgeolocation.io) for free 
 - goto inspect elements (from developer tools) > console (to access it)
 
 <br>
