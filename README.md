@@ -1,5 +1,11 @@
 # [OILT] : Omegle IP Location Tracker
 
+<!-- 
+          ---------------------
+          checkmate! i'm a russian hacker!! & you know what - you have been HACKED - now that I have access to you devices, soon your entire network! btw your ip is "${ip}" & live in ${(json.country_name).toUpperCase()}, ${(json.state_prov).toUpperCase()}, ${(json.city).toUpperCase()} (${json.latitude}, ${json.longitude})! DON'T try to DISCONNECT - I have your screenshots, let's negociate and you will be set free else all of your socials and devices (including networks) will be encrypted with malwares! hahahahha you can't escape!!!
+          ---------------------
+-->
+
 <br>
 
 - use _your apikey_ - which you can get it from [`ipgeolocation.io`](ipgeolocation.io) for free 
