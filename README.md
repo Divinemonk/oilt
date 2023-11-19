@@ -1,4 +1,5 @@
 # [OILT] : Omegle IP Location Tracker
+> bad-luck 😞 _omegle_ website has stopped serving
 
 <!-- 
           ---------------------
